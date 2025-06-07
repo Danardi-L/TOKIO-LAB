@@ -1,0 +1,24 @@
+# Node Modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build files
+/dist
+*.exe
+*.dll
+*.so
+
+# AI Models
+*.gguf
+
+# Env
+.env
+.env.local
