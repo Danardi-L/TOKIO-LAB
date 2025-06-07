@@ -20,7 +20,7 @@ A local chat AI app built with Electron.js. Chat with all AI models (GGUF) **ful
 - Electron.js
 - HTML + TailwindCSS
 - Node.js
-- Local LLaMA models via `llama-server`
+- Testing using Local LLaMA models via `llama-server`
 
 ---
 
