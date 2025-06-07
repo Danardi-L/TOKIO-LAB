@@ -28,8 +28,8 @@ A local chat AI app built with Electron.js. Chat with all AI models (GGUF) **ful
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/MrNuby/ai-chat-electron.git
-cd ai-chat-electron
+git clone https://github.com/Danardi-L/TOKIO-LAB
+cd TOKIO-LAB
 
 ```
 ### 2. Install dependencies
