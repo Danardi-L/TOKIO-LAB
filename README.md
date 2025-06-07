@@ -1,6 +1,6 @@
-# 🧠 AI Chat App (Electron + Local LLM)
+# 🧠 TOKIO LAB
 
-A local chat AI app built with Electron.js and styled like LM Studio. Chat with LLaMA models (GGUF) **fully offline**, with slick UI and tuning options.
+A local chat AI app built with Electron.js. Chat with all AI models (GGUF) **fully offline**, with slick UI and tuning options.
 
 ---
 
@@ -31,21 +31,11 @@ A local chat AI app built with Electron.js and styled like LM Studio. Chat with 
 git clone https://github.com/MrNuby/ai-chat-electron.git
 cd ai-chat-electron
 
+```
 ### 2. Install dependencies
 ```bash
 npm install
-
+```
 ### 3. Start the app
 ```bash
 npm start
-
----
-
-## 🧪 How it works
-Starts a local llama-server instance (via child_process)
-
-Communicates with the API on http://localhost:11434/v1/chat/completions
-
-Uses streaming to show tokens as they arrive
-
-UI handles model configs, settings modal, and dynamic tabs
